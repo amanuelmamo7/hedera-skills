@@ -1,5 +1,5 @@
 ---
-name: Project Scaffolding
+name: project-scaffolding
 description: This skill should be used when the user wants to set up Claude for a project, create a CLAUDE.md file, scaffold the .claude directory, initialize an AI workflow, configure a project for Claude, set up dev intelligence, initialize a new project, or do a new project setup. Triggered by phrases like "set up claude for this project", "create CLAUDE.md", "scaffold .claude directory", "init AI workflow", "configure project for claude", "set up dev intelligence", "initialize project", "new project setup".
 ---
 

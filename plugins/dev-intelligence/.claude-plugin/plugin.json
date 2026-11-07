@@ -1,0 +1,17 @@
+{
+  "name": "dev-intelligence",
+  "version": "1.0.0",
+  "description": "AI development workflow toolkit \u2014 session continuity, quality gates, project scaffolding, and tech debt tracking for any codebase",
+  "author": {
+    "name": "Hedera Dev"
+  },
+  "keywords": [
+    "dev-workflow",
+    "session-management",
+    "quality-gates",
+    "scaffolding",
+    "tech-debt",
+    "claude-code",
+    "ai-agents"
+  ]
+}

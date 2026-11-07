@@ -1,0 +1,22 @@
+{
+  "name": "hedera-harness",
+  "version": "1.2.0",
+  "description": "Create and review hedera-harness recipes (PRD, recipe file, validators, Playwright smoke, evaluate checklist) for in-place Scaffold HBAR feature work \u2014 includes shared anatomy vocabulary",
+  "author": {
+    "name": "Hedera Dev"
+  },
+  "keywords": [
+    "hedera",
+    "harness",
+    "hedera-harness",
+    "benchmark",
+    "spec",
+    "recipe",
+    "prd",
+    "eval",
+    "evaluate-checklist",
+    "scaffold-hbar",
+    "validators",
+    "playwright"
+  ]
+}

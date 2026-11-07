@@ -1,5 +1,5 @@
 ---
-name: Session Management
+name: session-management
 description: This skill should be used when the user wants to resume previous work, continue from a last session, check what was being worked on, track completed work, log session activity, manage tech debt, review pending items, view session history, or maintain a work log. Triggered by phrases like "resume work", "continue from last session", "what was I working on", "track this work", "log what we did", "tech debt", "what's pending", "session history", "work log".
 ---
 

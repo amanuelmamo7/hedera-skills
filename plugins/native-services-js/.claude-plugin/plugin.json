@@ -1,0 +1,19 @@
+{
+  "name": "native-services-js",
+  "version": "1.0.0",
+  "description": "Guides for Hedera Token Service, Consensus Service, and x402 pay-per-use HBAR payments using the Hiero JS SDK and @x402/hedera",
+  "author": {
+    "name": "Hedera Dev"
+  },
+  "keywords": [
+    "hedera",
+    "hts",
+    "hcs",
+    "tokens",
+    "consensus",
+    "javascript",
+    "hiero-sdk",
+    "x402",
+    "payments"
+  ]
+}

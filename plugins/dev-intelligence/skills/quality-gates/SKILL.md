@@ -1,5 +1,5 @@
 ---
-name: Quality Gates
+name: quality-gates
 description: This skill should be used when the user wants to set up linting, configure auto-checking after edits, create a deploy checklist, set up pre-push checks, configure a CI pipeline, add quality gates, set up a hook for typechecking, enable post-edit validation, or auto-validate code changes. Triggered by phrases like "set up linting", "auto check after edits", "deploy checklist", "pre-push checks", "CI pipeline", "quality gates", "hook for typecheck", "post-edit validation", "auto-validate".
 ---
 

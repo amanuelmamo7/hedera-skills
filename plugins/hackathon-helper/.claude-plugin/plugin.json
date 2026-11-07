@@ -1,0 +1,15 @@
+{
+  "name": "hackathon-helper",
+  "version": "1.0.0",
+  "description": "PRD generation and submission validation for Hedera hackathon participants, aligned to official judging criteria",
+  "author": {
+    "name": "Hedera Dev"
+  },
+  "keywords": [
+    "hedera",
+    "hackathon",
+    "prd",
+    "validation",
+    "judging-criteria"
+  ]
+}

@@ -1,5 +1,5 @@
 ---
-name: Hedera Hackathon PRD
+name: hackathon-prd
 description: This skill should be used when the user wants to plan a Hedera hackathon project, create a PRD, write a project spec, brainstorm a hackathon idea, or structure their hackathon submission. Triggered by phrases like "hackathon project plan", "hackathon PRD", "plan my hackathon project", "hedera hackathon idea", "write a hackathon spec", "hackathon project structure", "prepare for hackathon", or "build for hackathon".
 ---
 
