@@ -1,0 +1,17 @@
+{
+  "name": "agent-kit-plugin",
+  "version": "2.0.0",
+  "description": "Comprehensive guides for extending the Hedera Agent Kit: creating BaseTool plugins, writing observation hooks, and writing blocking policies",
+  "author": {
+    "name": "Hedera Dev"
+  },
+  "keywords": [
+    "hedera",
+    "agent-kit",
+    "plugin",
+    "tools",
+    "hooks",
+    "policies",
+    "blockchain"
+  ]
+}

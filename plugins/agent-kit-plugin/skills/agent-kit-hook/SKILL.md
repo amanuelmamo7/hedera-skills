@@ -1,5 +1,5 @@
 ---
-name: Hedera Hook Creation
+name: agent-kit-hook
 description: This skill should be used when the user asks to "create a hedera hook", "write an agent kit hook", "extend AbstractHook", "add a tool lifecycle hook", "log tool executions", "audit trail hook", "track tool calls", or needs guidance on building observation/logging/metrics extensions for Hedera Agent Kit tools. Hooks are non-blocking — for blocking validation rules use the policy skill instead.
 version: 1.0.0
 ---

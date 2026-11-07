@@ -1,5 +1,5 @@
 ---
-name: Hedera Hackathon Submission Validator
+name: validate-submission
 description: This skill should be used when the user wants to validate, review, or score their Hedera hackathon submission before submitting. Triggered by phrases like "validate hackathon submission", "review my hackathon project", "hackathon scorecard", "check submission readiness", "score my hackathon", "submission review", "judge my project", "hackathon submission quality", or "improve hackathon score".
 ---
 

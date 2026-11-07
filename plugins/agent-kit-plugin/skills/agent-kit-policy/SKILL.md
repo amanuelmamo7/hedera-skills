@@ -1,5 +1,5 @@
 ---
-name: Hedera Policy Creation
+name: agent-kit-policy
 description: This skill should be used when the user asks to "create a hedera policy", "block a tool", "limit recipients", "extend AbstractPolicy", "reject a tool", "enforce a threshold", "rate limit a tool", "block transfers over X", "allowlist tools", or needs guidance on writing blocking validation rules for Hedera Agent Kit tools. Policies block tool execution by throwing — for non-blocking observation use the hook skill instead.
 version: 1.0.0
 ---

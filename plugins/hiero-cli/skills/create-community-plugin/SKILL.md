@@ -1,10 +1,15 @@
+---
+name: create-community-plugin
+description: "Scaffold a standalone TypeScript project that exports one or more community plugins for hiero-cli (hcli), registered via hcli plugin-management. Use when the user wants to create, scaffold, or extend an hcli community plugin."
+---
+
 # create-community-plugin skill
 
 Scaffold a standalone TypeScript project that exports one or more plugins for hiero-cli, registered via `hcli plugin-management add -p '<manifest-path>'`.
 
 ## Setup
 
-Before doing anything else, read the full contents of `.claude/skills/create-community-plugin/references/RULES.md`. It contains project structure rules, config file templates, naming conventions, and code generation standards. Apply them silently — do not narrate rule application. Only surface a rule if the user's requirements conflict with it.
+Before doing anything else, read the full contents of `references/RULES.md` (in this skill's folder). It contains project structure rules, config file templates, naming conventions, and code generation standards. Apply them silently — do not narrate rule application. Only surface a rule if the user's requirements conflict with it.
 
 ---
 

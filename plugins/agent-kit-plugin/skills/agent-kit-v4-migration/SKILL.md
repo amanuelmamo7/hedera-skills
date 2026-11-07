@@ -1,5 +1,5 @@
 ---
-name: Hedera Agent Kit v4 Migration
+name: agent-kit-v4-migration
 description: This skill should be used when the user asks to "migrate to hedera-agent-kit v4", "upgrade hak v3 to v4", "convert plugin to BaseTool", "migrate Tool to BaseTool", "rename hedera-agent-kit imports", "fix v3 deprecation warnings", or has a project still on `hedera-agent-kit@3.x` / `@hashgraph/sdk` that needs to move to `@hashgraph/hedera-agent-kit@4.x` / `@hiero-ledger/sdk`. Covers both custom-plugin migration (Tool → BaseTool) and toolkit-consumer migration (LangChain/AI SDK/ElizaOS/MCP).
 version: 1.0.0
 ---

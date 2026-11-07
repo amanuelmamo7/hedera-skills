@@ -1,0 +1,19 @@
+{
+  "name": "hiero-cli",
+  "version": "1.0.0",
+  "description": "Full hcli command reference for interacting with Hedera accounts, HBAR, tokens, topics, contracts, networks, credentials, batches, and plugin management",
+  "author": {
+    "name": "Hedera Dev"
+  },
+  "keywords": [
+    "hedera",
+    "hiero",
+    "hcli",
+    "cli",
+    "hbar",
+    "token",
+    "nft",
+    "contract",
+    "topic"
+  ]
+}

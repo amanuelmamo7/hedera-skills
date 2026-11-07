@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash -c 'script=$(find ~/.claude -name \"post-edit-check.sh\" -path \"*/dev-intelligence/*\" 2>/dev/null | head -1); [ -n \"$script\" ] && bash \"$script\"'"
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/scripts/post-edit-check.sh\""
           }
         ]
       }

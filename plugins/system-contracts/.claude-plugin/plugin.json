@@ -1,0 +1,17 @@
+{
+  "name": "system-contracts",
+  "version": "1.0.0",
+  "description": "Technical references for Hedera system contracts (HTS and HSS) \u2014 Solidity APIs for token operations and scheduled transactions",
+  "author": {
+    "name": "Hedera Dev"
+  },
+  "keywords": [
+    "hedera",
+    "hts",
+    "hss",
+    "tokens",
+    "solidity",
+    "smart-contracts",
+    "schedule-service"
+  ]
+}
